@@ -42,6 +42,6 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/stock-portfolio-tracker.git](https://github.com/your-username/stock-portfolio-tracker.git)
+   git clone [https://github.com/your-username/stock-portfolio-tracker.git](https://github.com/varshithamd18/stock-portfolio-tracker.git)
    cd stock-portfolio-tracker
 # Codealpha_Stock_Fortolio
